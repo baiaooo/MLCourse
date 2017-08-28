@@ -1,5 +1,5 @@
 # MLCourse
-Materials for Data Literacy in the Age of Machine Learning
+Welcome to E-5072 Data Literacy in the Age of Machine Learning, Fall 2017
 
 Here you'll find the latest versions of materials for the course.
 
